@@ -1,0 +1,5 @@
+Godot Engine: Released under the MIT License, which is a permissive license allowing for commercial use and modification with relatively few restrictions. It's highly permissive and encourages the use of the engine in both open-source and proprietary projects.
+
+Stride (formerly Xenko): Stride is dual-licensed under the Apache License 2.0 and the MIT License. These are both permissive licenses that allow for commercial use, modification, and redistribution, with relatively few restrictions.
+
+MonoGame: MonoGame is released under the Microsoft Public License (Ms-PL), which is also a permissive license allowing for commercial use and modification. It's similar to the MIT License but includes specific language regarding patents and trademarks.
